@@ -28,10 +28,10 @@ def lunch(food = "Salad")
   puts "#{food} is the best lunch!"
 end
 
-lunch()
+lunch("Sushi")
 
 def dinner(food = "Pizza")
   puts "The evening is the best time for #{food}!"
 end
 
-dinner()
+dinner("Tacos")
